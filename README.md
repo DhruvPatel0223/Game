@@ -1,1 +1,2 @@
-# Game
+# 2player-game
+using database and js
